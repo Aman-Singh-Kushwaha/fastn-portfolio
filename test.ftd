@@ -1,0 +1,14 @@
+-- import: package/header
+-- import: package/base-layout as layout
+-- import: package/header as navbar
+-- import: package/toast as toast
+-- import: package/lib as lib
+-- import: package/button as button
+-- import: package/social-buttons as social
+
+-- layout.base-layout:
+
+--navbar.header:
+logo: $assets.files.images.logo.svg
+logoURL: /portfolio
+header-item1: Home

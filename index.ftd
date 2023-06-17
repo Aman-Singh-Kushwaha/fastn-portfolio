@@ -30,8 +30,6 @@ header-item1-link: /portfolio
 header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
-cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -43,9 +41,9 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 ;; ***** PORTFOLIO Toast starts *****
 ;; -----------------------------------------------------
 
--- toast.stack: 
-title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+;; -- toast.stack: 
+;; title: Hello, I'm aspiring fastn developer based in India
+;; link: https://github.com/Aman-Singh-Kushwaha
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -70,21 +68,21 @@ spacing.fixed.px: 20
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
-secondTitle: YOUR_NAME,
+firstTitle: Hey 🙌I'm
+secondTitle: Aman Kushwaha,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Cloud
+secondTitle: engineer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Web3 explorer.
 
--- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
-role: $lib.home-description-responsive-typography
-margin-top.px: 10
-width.fixed.px: 700
+;; -- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+;; role: $lib.home-description-responsive-typography
+;; margin-top.px: 10
+;; width.fixed.px: 700
 
 
 ;; --------------------------------------------------------------
@@ -95,12 +93,8 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:as8962703520@gmail.com
 
--- button.primary: 
-title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
-isNewTab: true
 
 -- end: ftd.row
 
@@ -117,27 +111,21 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/aman-kumar-singh-kushwaha-60b501225/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://twitter.com/Aman_KSK
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
-image: $assets.files.images.github.png
+link: https://github.com/Aman-Singh-Kushwaha
+image: $assets.files.images.github.png 
+
+
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
-image: $assets.files.images.instagram.png
-
--- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
-image: $assets.files.images.youtube.png
-
--- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:as8962703520@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -154,7 +142,7 @@ image: $assets.files.images.mail.png
 ;; ------------------------------------------
 
 -- ftd.image:
-src: $assets.files.images.dog.png
+src: $assets.files.images.Aman.png
 
 -- end: ftd.row
 
